@@ -636,7 +636,7 @@ async function groupSharePost (groups) {
         type: 'sharePost',
         targetType: 'group',
         content: content.value,
-        bgId: selectedColor.value,
+        bgId: '',
         postParam: postParams,
         group: groupIds
       }
