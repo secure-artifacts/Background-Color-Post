@@ -4,7 +4,7 @@
   "description": "__MSG_extDesc__",
   "default_locale": "en",
   "author": "Raz1ner",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "action": {
     "default_icon": "img/icon.png"
   },
